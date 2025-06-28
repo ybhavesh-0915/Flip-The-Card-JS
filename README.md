@@ -1,7 +1,8 @@
 # 🃏 Flip the Card - Memory Game
 
 A fun memory-based card flipping game built using vanilla JavaScript, HTML, and CSS. The game features **10 levels** with increasing difficulty and limited moves. Match all card pairs before your moves run out!
-live preview[https://ybhavesh-0915.github.io/Flip-The-Card-JS/] 
+[live preview](https://ybhavesh-0915.github.io/Flip-The-Card-JS/) 
+
 ## ✨ Features
 
 - 🎮 10 Progressive Levels
@@ -47,7 +48,7 @@ LICENSE
   
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE)
 
 ---
 
