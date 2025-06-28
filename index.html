@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+    <section class="wrapper">
+        <div class="info-wrapper">
+            <h1 class="level">Level 1</h1>
+            <h1 class="remain-moves">Moves: 54</h1>
+        </div>
+        <div class="cards-wrapper"></div>
+        <div class="btn-wrapper">
+            <button type="button" class="reset-Btn" onclick="location.reload()">Reset</button>
+            <button type="button" class="next-Level-Btn" onclick="NextLevel()">Next Level <i class="ri-arrow-right-line"></i></button>
+        </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js"></script>
+    <script src="./app.js"></script>
+</body>
+</html>
